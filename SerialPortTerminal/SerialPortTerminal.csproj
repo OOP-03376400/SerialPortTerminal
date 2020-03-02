@@ -51,7 +51,7 @@
     <ApplicationIcon>SerialPortTerminal_icon.ico</ApplicationIcon>
   </PropertyGroup>
   <PropertyGroup>
-    <SignManifests>true</SignManifests>
+    <SignManifests>false</SignManifests>
   </PropertyGroup>
   <PropertyGroup>
     <ManifestCertificateThumbprint>688F81197EA5DC143CDFAB65B6BEC4715652364F</ManifestCertificateThumbprint>
